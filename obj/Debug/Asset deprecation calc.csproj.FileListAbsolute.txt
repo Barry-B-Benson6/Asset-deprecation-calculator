@@ -1,0 +1,18 @@
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\bin\Debug\Asset deprecation calc.exe.config
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\bin\Debug\Asset deprecation calc.exe
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\bin\Debug\Asset deprecation calc.pdb
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset deprecation calc.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset deprecation calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset_deprecation_calc.Properties.Resources.resources
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset deprecation calc.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset deprecation calc.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset deprecation calc.exe
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset deprecation calc.pdb
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset_deprecation_calc.MainForm.resources
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset_deprecation_calc.InputForm.resources
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset_deprecation_calc.Login.resources
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset deprecation calc.csproj.CopyComplete
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset_deprecation_calc.Register.resources
+C:\Users\User\OneDrive - Woodcroft College\Yr 11\Digital Tech\Asset deprecation calc\obj\Debug\Asset_deprecation_calc.ViewAssets.resources

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7b1c0d2-e967-4924-bc6a-b78418fe022d": {
+      "ProjectGuid": "c7b1c0d2-e967-4924-bc6a-b78418fe022d",
+      "DisplayName": "Asset deprecation calc",
+      "ColorIndex": 0
+    },
+    "65b0b8fe-4cc4-4c2b-a26b-00715bf35df8": {
+      "ProjectGuid": "65b0b8fe-4cc4-4c2b-a26b-00715bf35df8",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
