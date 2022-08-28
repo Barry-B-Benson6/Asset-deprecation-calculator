@@ -35,6 +35,7 @@ namespace Asset_deprecation_calc
             AssetRetriever.DefaultRequestHeaders.Add("X-Bin-Meta", "false");
             Username = username;
             InitializeComponent();
+            this.Text = username + "'s Assets";
             addNewSubForm(new InputForm(this));
             this.FormClosing += new FormClosingEventHandler(closing);
         }

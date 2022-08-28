@@ -48,7 +48,6 @@ namespace Asset_deprecation_calc
             {
                 if (login[txtUsername.Text] == pass)
                 {
-                    MessageBox.Show("Hi " + txtUsername.Text);
                     MainForm mainForm = new MainForm(txtUsername.Text);
                     mainForm.Show();
                     this.Hide();

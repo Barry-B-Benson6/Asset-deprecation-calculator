@@ -35,14 +35,15 @@ namespace Asset_deprecation_calc
 
             lblAssetName.Text = selectedAsset.Name;
 
-            double monthlyDeprication = ((selectedAsset.cost - selectedAsset.Salvagevalue)/selectedAsset.LifeSpan)/12;
+            double monthlyDeprication = Math.Round(((selectedAsset.cost - selectedAsset.Salvagevalue)/selectedAsset.LifeSpan)/12,2);
 
             lblMonthlyDeprication.Text = "Monthly Deprication: $" + monthlyDeprication;
 
-            lblDescription.Text = "Asset Description";
+            lblDescription.Text = "Asset Description:";
             txtDescription.Text = selectedAsset.Description;
             lblDatePurchased.Text = "Date Purchased: " + selectedAsset.DatePurchased.ToString();
             lblDateOfEndOfLife.Text = "End of useful life: " + selectedAsset.DatePurchased.AddYears(selectedAsset.LifeSpan).ToString();
+            lblTimeUntilEnd.Text = "Days until end of useful life: " + Math.Floor((selectedAsset.DatePurchased.AddYears(selectedAsset.LifeSpan)- DateTime.Now).TotalDays).ToString();
         }
     }
 }

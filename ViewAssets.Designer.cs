@@ -40,6 +40,7 @@
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
             this.lblDatePurchased = new System.Windows.Forms.Label();
             this.lblDateOfEndOfLife = new System.Windows.Forms.Label();
+            this.lblTimeUntilEnd = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
@@ -103,6 +104,7 @@
             this.tableLayoutPanel2.Controls.Add(this.lblDatePurchased, 1, 2);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel3, 1, 1);
             this.tableLayoutPanel2.Controls.Add(this.lblDateOfEndOfLife, 1, 3);
+            this.tableLayoutPanel2.Controls.Add(this.lblTimeUntilEnd, 1, 4);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 69);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
@@ -182,6 +184,7 @@
             // lblDatePurchased
             // 
             this.lblDatePurchased.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lblDatePurchased.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDatePurchased.Location = new System.Drawing.Point(336, 212);
             this.lblDatePurchased.Name = "lblDatePurchased";
             this.lblDatePurchased.Size = new System.Drawing.Size(166, 45);
@@ -191,12 +194,25 @@
             // 
             // lblDateOfEndOfLife
             // 
-            this.lblDateOfEndOfLife.AutoSize = true;
+            this.lblDateOfEndOfLife.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lblDateOfEndOfLife.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDateOfEndOfLife.Location = new System.Drawing.Point(369, 333);
             this.lblDateOfEndOfLife.Name = "lblDateOfEndOfLife";
             this.lblDateOfEndOfLife.Size = new System.Drawing.Size(35, 13);
             this.lblDateOfEndOfLife.TabIndex = 5;
             this.lblDateOfEndOfLife.Text = "label1";
+            this.lblDateOfEndOfLife.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // lblTimeUntilEnd
+            // 
+            this.lblTimeUntilEnd.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lblTimeUntilEnd.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTimeUntilEnd.Location = new System.Drawing.Point(351, 412);
+            this.lblTimeUntilEnd.Name = "lblTimeUntilEnd";
+            this.lblTimeUntilEnd.Size = new System.Drawing.Size(35, 13);
+            this.lblTimeUntilEnd.TabIndex = 6;
+            this.lblTimeUntilEnd.Text = "label1";
+            this.lblTimeUntilEnd.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // ViewAssets
             // 
@@ -211,7 +227,6 @@
             this.panel1.ResumeLayout(false);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
-            this.tableLayoutPanel2.PerformLayout();
             this.tableLayoutPanel3.ResumeLayout(false);
             this.tableLayoutPanel4.ResumeLayout(false);
             this.tableLayoutPanel4.PerformLayout();
@@ -233,5 +248,6 @@
         private System.Windows.Forms.TextBox txtDescription;
         private System.Windows.Forms.Label lblDatePurchased;
         private System.Windows.Forms.Label lblDateOfEndOfLife;
+        private System.Windows.Forms.Label lblTimeUntilEnd;
     }
 }
